@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/Leccio1/memoria2_isim_beh.exe" -prj "C:/Xilinx/Leccio1/memoria2_beh.prj" "work.memoria2" 

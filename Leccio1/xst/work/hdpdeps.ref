@@ -1,0 +1,15 @@
+V3 11
+FL C:/Xilinx/Leccio1/memoria2.vhd 2022/07/01.12:50:24 P.20131013
+EN work/memoria2 1656697826 FL C:/Xilinx/Leccio1/memoria2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/memoria2/Behavioral 1656697827 \
+      FL C:/Xilinx/Leccio1/memoria2.vhd EN work/memoria2 1656697826
+FL C:/Xilinx/Leccio1/memoriarm.vhd 2022/07/01.12:36:15 P.20131013
+EN work/TB_memoriarm 0 FL C:/Xilinx/Leccio1/memoriarm.vhd PB ieee/std_logic_1164 1381692176
+AR work/TB_memoriarm/behavior 0 \
+      FL C:/Xilinx/Leccio1/memoriarm.vhd EN work/TB_memoriarm 0 CP memoriarm
+FL C:/Xilinx/Leccio1/TBmemorydemo.vhd 2022/07/01.12:34:00 P.20131013
+EN work/TBmemorydemo 0 FL C:/Xilinx/Leccio1/TBmemorydemo.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/TBmemorydemo/behavior 0 \
+      FL C:/Xilinx/Leccio1/TBmemorydemo.vhd EN work/TBmemorydemo 0 CP memorydemo
